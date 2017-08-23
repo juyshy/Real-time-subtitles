@@ -15,6 +15,7 @@ Features:
 * keyboard control forward, backward stepping in subtitle queue, toggling on/off overlay window visibility
 * jump to defined subtitle line
 * settings for size, color and positioning of overlaying subtitles window
+* logging subtitle times for timecoding
 
 Subtitle files preparation
 -------
