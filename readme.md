@@ -12,7 +12,7 @@ Features:
 * Two windows:
   * control window with context view: current subtitle highlighted in the context of previous and upcoming subtitle lines
   * subtitle window which may be overlayed to the bottom of video playing in separate player
-* keyboard control forward, backward stepping in subtitle queue
+* keyboard control forward, backward stepping in subtitle queue, toggling on/off overlay window visibility
 * jump to defined subtitle line
 * settings for size, color and positioning of overlaying subtitles window
 
