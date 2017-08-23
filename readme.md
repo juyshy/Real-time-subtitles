@@ -25,8 +25,8 @@ Requirements
 Perhaps easiest to get it running is to install Anaconda python distribution
 
 
-Potential issue with anaconda and windows
-if error: application failed because could not load qt platform plugin "windows"
+Potential issue with anaconda and windows:
+If error: application failed because could not load qt platform plugin "windows"
  https://github.com/ContinuumIO/anaconda-issues/issues/1270
 fix:  "COPY the Continuum\Anaconda3\Library\plugins\platforms
 folder to Continuum\Anaconda3
