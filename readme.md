@@ -16,6 +16,11 @@ Features:
 * jump to defined subtitle line
 * settings for size, color and positioning of overlaying subtitles window
 
+Subtitle files preparation
+-------
+
+* encoding: unicode 7 Utf-8 text files with end lines with LF only
+* lines separated with line feed (LF)  line breaks
 
 Requirements
 -------
